@@ -82,6 +82,7 @@ emotion-detection-dnn/
 ├── src/
 ├── notebooks/
 ├── requirements.txt
+├── model.pt
 ├── README.md
 ```
 
